@@ -5,4 +5,6 @@
   *  Description: sitename Javascript
   *  ***************************************************************************/
 
- $(document).ready(function() {});
+ $(document).ready(function() {
+
+ });
