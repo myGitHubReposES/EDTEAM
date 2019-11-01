@@ -13,5 +13,5 @@
  }
  $(document).ready(function() {
      saludation('Hola mundo');
-     sumatorio(3, 526);
+     sumatorio(3, 483);
  });
